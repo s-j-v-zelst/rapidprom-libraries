@@ -11,11 +11,10 @@
         rapidprom:author="Boudewijn van Dongen" 
         rapidprom:auto="true"
         rapidprom:hasPlugins="true" 
-        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
-    
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1.a" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
     </dependencies>
 </ivy-module>

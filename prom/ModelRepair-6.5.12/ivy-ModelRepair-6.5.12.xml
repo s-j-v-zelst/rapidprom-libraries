@@ -1,0 +1,23 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="ModelRepair" 
+        revision="6.5.12" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/ModelRepair-6.5.12"
+        rapidprom:desc="ModelRepair"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="D. Fahland"
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+		<dependency org="org.rapidprom" name="Uma" rev="6.5.46"   />
+		<dependency org="org.rapidprom.thirdparty.lib" name="pnapi-java" rev="na-2" conf="*" />
+        <dependency org="org.antlr" name="antlr-runtime" rev="3.2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="uma" rev="na-2" conf="*" />
+    </dependencies>
+</ivy-module>

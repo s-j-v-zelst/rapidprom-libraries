@@ -1,0 +1,32 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="PTAndLogGenerator" 
+        revision="6.7.84" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PTAndLogGenerator-6.7.84"
+        rapidprom:desc="PTAndLogGenerator"
+        rapidprom:org="Hasselt University" 
+        rapidprom:license="LGPL"
+        rapidprom:author="T. Jouck"
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+		<dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"   />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
+        <dependency org="org.rapidprom" name="Properties" rev="6.5.68"   />
+	    <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"   />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.75"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
+		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.511"   />
+		<dependency org="org.python" name="jython-standalone" rev="2.7.0" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="PyTreeNew" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="Simpy" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="TreeSimulator" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="noUniqueTraces" rev="na-1" conf="*" />
+    </dependencies>
+</ivy-module>

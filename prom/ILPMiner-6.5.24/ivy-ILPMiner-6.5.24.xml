@@ -17,7 +17,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
         <dependency org="org.rapidprom.thirdparty.lib" name="oplall" rev="na-1" conf="*" />
      </dependencies>

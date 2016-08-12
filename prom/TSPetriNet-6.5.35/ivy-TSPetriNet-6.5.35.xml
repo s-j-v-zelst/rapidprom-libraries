@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
         <dependency org="org.rapidprom" name="Petrify" rev="6.5.17"   />
     </dependencies>
 </ivy-module>

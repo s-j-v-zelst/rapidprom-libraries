@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="CPNet" rev="6.5.84"  />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"  />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"  />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"  />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"  />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"  />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.85"  />
         <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  />

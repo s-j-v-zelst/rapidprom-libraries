@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"   />
-	    <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"   />
+	    <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.75"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
 		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.511"   />

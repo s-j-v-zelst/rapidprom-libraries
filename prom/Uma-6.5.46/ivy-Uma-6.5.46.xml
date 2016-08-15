@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
 		<dependency org="org.rapidprom" name="Animation" rev="6.5.50"   />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.5.128"   />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />
 		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.75"   />
 		<dependency org="org.rapidprom" name="OSService" rev="6.5.19"   />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />

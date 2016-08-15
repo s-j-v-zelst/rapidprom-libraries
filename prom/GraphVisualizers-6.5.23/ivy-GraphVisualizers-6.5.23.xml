@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="Fuzzy" rev="6.5.33"  />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"  />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"  />
     </dependencies>
 </ivy-module>

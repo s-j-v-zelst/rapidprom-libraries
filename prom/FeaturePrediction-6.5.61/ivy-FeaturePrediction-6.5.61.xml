@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.511"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.5.75"   />
         <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" conf="*"/>
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />
         <dependency org="org.rapidprom" name="XESLite" rev="6.5.168"   />
     </dependencies>
 </ivy-module>

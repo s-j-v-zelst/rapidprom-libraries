@@ -19,9 +19,9 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.291"   />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.71"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.5.128"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.04" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="joda-time" rev="2.9.1" conf="*" />

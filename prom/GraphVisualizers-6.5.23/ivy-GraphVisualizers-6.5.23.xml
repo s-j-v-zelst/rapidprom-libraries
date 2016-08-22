@@ -20,7 +20,7 @@
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.29"  />
         <dependency org="org.rapidprom" name="Fuzzy" rev="6.5.33"  />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"  />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"  />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"  />
     </dependencies>

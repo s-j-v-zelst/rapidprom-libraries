@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
         <dependency org="org.rapidprom" name="Daikon" rev="6.5.3"   />
         <dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />

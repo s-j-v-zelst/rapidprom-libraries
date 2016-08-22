@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.5.83"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
         <dependency org="org.rapidprom" name="BPMN" rev="6.5.56"   />
         <dependency org="org.rapidprom" name="YAWL" rev="6.5.30"   />

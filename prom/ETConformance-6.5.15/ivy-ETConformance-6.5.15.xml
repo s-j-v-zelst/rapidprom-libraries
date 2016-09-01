@@ -15,7 +15,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
         <dependency org="org.rapidprom" name="PNAnalysis" rev="6.5.67"   />

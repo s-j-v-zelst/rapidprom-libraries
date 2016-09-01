@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="Animation" rev="6.5.50"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.5.230"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
         <dependency org="org.rapidprom" name="OSService" rev="6.5.19"   />
     </dependencies>
 </ivy-module>

@@ -22,7 +22,7 @@
 	    <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.80"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
-		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.558"   />
+		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.561"   />
 		<dependency org="org.python" name="jython-standalone" rev="2.7.0" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="PyTreeNew" rev="na-1" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="Simpy" rev="na-1" conf="*" />

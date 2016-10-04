@@ -27,6 +27,6 @@
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"   />
         <dependency org="org.rapidprom" name="PTMerge" rev="6.5.19"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="RTED" rev="v1.0" conf="*" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
      </dependencies>
 </ivy-module>

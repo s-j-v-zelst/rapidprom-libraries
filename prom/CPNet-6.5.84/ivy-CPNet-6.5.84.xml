@@ -20,6 +20,6 @@
         <dependency org="org.rapidprom.thirdparty.lib" name="javabdd" rev="1.0b2" conf="*" />
         <dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"  />
     </dependencies>
 </ivy-module>

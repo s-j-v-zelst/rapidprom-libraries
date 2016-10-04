@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"  />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.85"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"  />
     </dependencies>
 </ivy-module>

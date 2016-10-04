@@ -19,7 +19,7 @@
 		<dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />      
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"  />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"  />
     </dependencies>
 </ivy-module>

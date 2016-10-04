@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="ProcessTree" 
-        revision="6.5.61" 
+        revision="6.7.73" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/ProcessTree-6.5.61"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/ProcessTree-6.7.73"
         rapidprom:desc="Process Tree"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"

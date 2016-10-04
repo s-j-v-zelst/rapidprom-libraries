@@ -2,7 +2,7 @@
     <info 
         organisation="org.rapidprom" 
         module="AcceptingPetriNetClassicalReductor" 
-        revision="6.5.62" 
+        revision="6.5.22" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/AcceptingPetriNetClassicalReductor-6.5.22"
         rapidprom:desc="Accepting Petri Net Classical Reductor"

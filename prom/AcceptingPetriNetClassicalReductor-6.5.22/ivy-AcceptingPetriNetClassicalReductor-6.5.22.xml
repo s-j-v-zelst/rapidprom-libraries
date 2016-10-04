@@ -1,0 +1,21 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="AcceptingPetriNetClassicalReductor" 
+        revision="6.5.62" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/AcceptingPetriNetClassicalReductor-6.5.22"
+        rapidprom:desc="Accepting Petri Net Classical Reductor"
+        rapidprom:org="Eindhoven University of Technology"
+        rapidprom:license="LGPL" 
+        rapidprom:author="H.M.W. Verbeek" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89" />
+        <dependency org="org.rapidprom" name="Murata" rev="6.5.54" />
+    </dependencies>
+</ivy-module>

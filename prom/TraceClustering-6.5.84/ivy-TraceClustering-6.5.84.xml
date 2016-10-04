@@ -1,0 +1,22 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="TraceClustering" 
+        revision="6.5.84" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/TraceClustering-6.5.84"
+        rapidprom:desc="TraceClustering"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author=" "
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
+		<dependency org="com.googlecode.matrix-toolkits-java" name="mtj" rev="1.0.2" conf="*" />
+		<dependency org="joda-time" name="joda-time" rev="2.9.3" conf="*" />
+    </dependencies>
+</ivy-module>

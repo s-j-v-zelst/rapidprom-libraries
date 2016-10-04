@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104" />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.288" />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.293" />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54" />
     </dependencies>
 </ivy-module>

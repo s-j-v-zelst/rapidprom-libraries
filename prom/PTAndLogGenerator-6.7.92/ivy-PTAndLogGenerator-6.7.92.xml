@@ -15,7 +15,7 @@
     
     />
     <dependencies>
-		<dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
+		<dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.5.61"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"   />

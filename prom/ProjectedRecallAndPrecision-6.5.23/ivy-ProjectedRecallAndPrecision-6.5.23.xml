@@ -20,7 +20,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.5.153"  />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.288"  />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.54"  />
         <dependency org="org.rapidprom" name="PNAnalysis" rev="6.5.67"  />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.5.54"  />

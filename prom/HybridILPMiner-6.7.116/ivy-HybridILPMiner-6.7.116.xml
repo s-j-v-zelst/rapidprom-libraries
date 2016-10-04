@@ -22,7 +22,7 @@
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"   />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
         <dependency org="org.rapidprom" name="LPEngine" rev="6.7.71"   />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.54"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />

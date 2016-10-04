@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.5.29"   />
         <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.36"   />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53"   />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"   />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />

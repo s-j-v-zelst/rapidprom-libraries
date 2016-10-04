@@ -14,7 +14,7 @@
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="BasicUtils" rev="6.5.79" />
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104" />
         <dependency org="org.rapidprom" name="Log" rev="6.7.288" />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.157" />
     </dependencies>

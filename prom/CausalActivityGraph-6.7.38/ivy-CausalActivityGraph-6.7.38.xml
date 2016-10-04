@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="CausalActivityGraph" 
-        revision="6.5.29" 
+        revision="6.7.38" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/CausalActivityGraph-6.5.29"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/CausalActivityGraph-6.7.38"
         rapidprom:desc="Causal Activity Graph"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 

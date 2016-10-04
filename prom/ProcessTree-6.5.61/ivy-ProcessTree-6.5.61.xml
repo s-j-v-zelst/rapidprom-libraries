@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.68"   />
         <dependency org="org.rapidprom" name="YAWL" rev="6.5.30"   />
     </dependencies>

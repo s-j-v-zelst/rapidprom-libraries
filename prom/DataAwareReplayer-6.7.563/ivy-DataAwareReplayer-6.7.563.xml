@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.291"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.288"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.89"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.157"   />
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"   />

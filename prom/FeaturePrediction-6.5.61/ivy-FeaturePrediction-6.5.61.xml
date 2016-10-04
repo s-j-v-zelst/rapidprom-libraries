@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.5.291"   />
         <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.563"   />
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.80"   />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
         <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" conf="*"/>
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
         <dependency org="org.rapidprom" name="XESLite" rev="6.5.168"   />

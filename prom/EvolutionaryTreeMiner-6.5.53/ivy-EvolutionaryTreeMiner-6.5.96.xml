@@ -14,7 +14,7 @@
         rapidprom:logo="http://www.win.tue.nl/~jbuijs/wiki/_media/joosbuijs.png"
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.84"   />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.88"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0" conf="*"/>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.5.33"   />

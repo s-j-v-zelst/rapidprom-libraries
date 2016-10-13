@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="LocalProcessModelDiscovery" 
-        revision="6.7.21" 
+        revision="6.7.23" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/LocalProcessModelDiscovery-6.7.21"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/LocalProcessModelDiscovery-6.7.23"
         rapidprom:desc="LocalProcessModelDiscovery"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"

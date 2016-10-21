@@ -1,0 +1,5 @@
+<ivy-module version="2.0">
+<!-- I have no idea which version it its, but its old as fuck (unfortunately, it is needed for some legacy ProM plugins)-->
+    <info organisation="org.rapidprom.thirdparty.lib" module="weka" revision="old">
+    </info>
+</ivy-module>

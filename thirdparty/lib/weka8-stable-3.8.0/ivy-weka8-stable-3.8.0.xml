@@ -1,0 +1,4 @@
+<ivy-module version="2.0">
+    <info organisation="org.rapidprom.thirdparty.lib" module="weka8-stable" revision="3.8.0">
+    </info>
+</ivy-module>

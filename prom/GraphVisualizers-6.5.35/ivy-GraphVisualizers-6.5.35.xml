@@ -15,7 +15,7 @@
         
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.93"  />
+        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"  />
         <dependency org="org.rapidprom" name="ActivityClusterArray" rev="6.5.32"  />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185" />
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.7.38"  />

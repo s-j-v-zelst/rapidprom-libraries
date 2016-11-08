@@ -15,7 +15,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53" />
-        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.5.96" />
+        <dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.7.154" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185" />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297" />
         <dependency org="org.rapidprom.thirdparty.lib" name="jblas" rev="1.2.4" conf="*" />

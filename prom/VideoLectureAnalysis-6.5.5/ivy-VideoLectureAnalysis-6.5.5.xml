@@ -15,7 +15,7 @@
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
 		<dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />      
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />

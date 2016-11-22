@@ -17,6 +17,6 @@
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="LPEngine" rev="6.7.80"   />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
     </dependencies>
 </ivy-module>

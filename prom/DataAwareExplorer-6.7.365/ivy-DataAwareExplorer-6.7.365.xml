@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="DataAwareExplorer" 
-        revision="6.7.329" 
+        revision="6.7.365" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareExplorer-6.7.329"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareExplorer-6.7.365"
         rapidprom:desc="DataAwareExplorer"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 

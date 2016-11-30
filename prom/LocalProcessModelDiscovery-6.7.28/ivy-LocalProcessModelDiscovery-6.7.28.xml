@@ -27,8 +27,8 @@
 		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
 		<dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
 		<dependency org="org.rapidprom" name="TraceClustering" rev="6.5.84"   />
-		<dependency org="org.rapidprom" name="XESLite" rev="6.7.217"   />
-		<dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
+		<dependency org="org.rapidprom" name="XESLite" rev="6.7.276"   />
+		<dependency org="org.rapidprom" name="Widgets" rev="6.7.205"   />
 		  	
 	    <dependency org="de.mukis" name="de.mukis.jama" rev="1.1.2" conf="*"/>
 		

@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="DataDiscovery" 
-        revision="6.7.57" 
+        revision="6.7.89" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataDiscovery-6.7.57"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataDiscovery-6.7.89"
         rapidprom:desc="DataDiscovery"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 
@@ -19,6 +19,7 @@
 		<dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.421"   />
 		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53" />
+		<dependency org="org.rapidprom" name="Weka" rev="6.7.3" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
     </dependencies>
 </ivy-module>

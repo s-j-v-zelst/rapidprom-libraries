@@ -25,7 +25,7 @@
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.205"   />
-        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"   />
+        <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.7.57"   />
 		<dependency org="org.rapidprom" name="XESLite" rev="6.7.276"   />
     </dependencies>
 </ivy-module>

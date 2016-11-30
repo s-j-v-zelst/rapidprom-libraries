@@ -23,7 +23,7 @@
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9" conf="*" />
 		<dependency org="xerces" name="xercesImpl" rev="2.11.0" conf="*" />
 		<dependency org="xerces" name="xmlParserAPIs" rev="2.6.2" conf="*" />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" /> 
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.86"   />

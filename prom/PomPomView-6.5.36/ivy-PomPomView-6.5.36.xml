@@ -17,7 +17,7 @@
     <dependencies>
         <dependency org="org.rapidprom" name="EPC" rev="6.5.34"   />
         <dependency org="org.rapidprom" name="EPCConversion" rev="6.5.16"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
         <dependency org="org.rapidprom" name="Murata" rev="6.5.54"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
     </dependencies>

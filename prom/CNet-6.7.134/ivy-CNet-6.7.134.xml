@@ -16,6 +16,6 @@
     <dependencies>
 	<dependency org="org.rapidprom" name="DataExpression" rev="6.7.46" />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185" />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.315"  />
     </dependencies>
 </ivy-module>

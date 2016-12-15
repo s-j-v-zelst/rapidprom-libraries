@@ -24,7 +24,7 @@
 		<dependency org="org.rapidprom" name="GraphVisualizers" rev="6.5.35"   />
 		<dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
 		<dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297"   />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.138"   />
 		<dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
 		<dependency org="org.rapidprom" name="TraceClustering" rev="6.5.84"   />
 		<dependency org="org.rapidprom" name="XESLite" rev="6.7.276"   />

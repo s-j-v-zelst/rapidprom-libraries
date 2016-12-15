@@ -17,7 +17,7 @@
     <dependencies>
 		<dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
 		<dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.421"   />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.138"   />
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.76" />
 		<dependency org="org.rapidprom" name="Weka" rev="6.7.25" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />

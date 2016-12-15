@@ -24,6 +24,6 @@
 		<dependency org="org.rapidprom" name="DataExpression" rev="6.7.46"   />
         <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />
         <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
+		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
     </dependencies>
 </ivy-module>

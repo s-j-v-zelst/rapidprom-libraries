@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.86"   />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"   />
     </dependencies>

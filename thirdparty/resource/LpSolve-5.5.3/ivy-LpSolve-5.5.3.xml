@@ -1,0 +1,8 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info organisation="org.rapidprom.thirdparty.resource" module="LpSolve" revision="5.5.3" />
+    <publications>
+        <artifact name="LpSolve-5.5.3" type="jar" />
+        <artifact name="LpSolve-5.5.3" type="zip" />
+    </publications>
+</ivy-module>
+

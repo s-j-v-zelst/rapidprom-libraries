@@ -26,7 +26,7 @@
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.7.57"   />
 	<dependency org="org.rapidprom" name="XESLite" rev="6.7.276" />
 	<dependency org="org.rapidprom" name="Weka" rev="6.7.25" />
-	<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
+	<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
 	<dependency org="org.scijava" name="jep" rev="2.4.2" conf="*" />
         <dependency org="com.github.stephenc.high-scale-lib" name="high-scale-lib" rev="1.1.4" conf="*" />
     </dependencies>

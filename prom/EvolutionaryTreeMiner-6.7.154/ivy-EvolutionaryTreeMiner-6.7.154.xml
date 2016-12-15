@@ -17,7 +17,7 @@
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.88"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0" conf="*"/>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.76"   />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297"   />
         <dependency org="sshtools" name="j2ssh-core" rev="0.2.9" conf="*" />
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9" conf="*" />

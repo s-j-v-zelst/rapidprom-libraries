@@ -20,6 +20,5 @@
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
 		<dependency org="org.rapidprom" name="Woflan" rev="6.7.59"   />
 		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
-		<dependency org="colt" name="colt" rev="1.0.3"/>
     </dependencies>
 </ivy-module>

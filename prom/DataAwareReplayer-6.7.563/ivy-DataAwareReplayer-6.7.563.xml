@@ -23,7 +23,7 @@
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
         <dependency org="org.rapidprom" name="XESAlignmentExtension" rev="6.5.29"   />
-		<dependency org="org.rapidprom" name="CNet" rev="6.7.88" />  
+		<dependency org="org.rapidprom" name="CNet" rev="6.7.137" />  
 		<dependency org="org.rapidprom" name="XESLite" rev="6.7.217" />
 		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
     </dependencies>

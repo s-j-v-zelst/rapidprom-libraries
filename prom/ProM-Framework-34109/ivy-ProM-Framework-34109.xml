@@ -32,7 +32,7 @@
         <artifact name="junit-4.8.1" type="jar" conf="*" />
         <artifact name="openide-lookup-1.9-patched-1.0" type="jar" conf="*" />
         <artifact name="simmetrics-latest" type="jar" conf="*" />
-        <artifact name="slickerbox1.0rc1" type="jar" conf="*" />
+        <artifact name="slickerbox-1.0rc1" type="jar" conf="*" />
         <artifact name="Spex-1.1" type="jar" conf="*" />
         <artifact name="TableLayout-20050920" type="jar" conf="*" />
         <artifact name="UITopiaResources-0.5" type="jar" conf="*" />

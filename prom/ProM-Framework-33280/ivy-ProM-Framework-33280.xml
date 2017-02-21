@@ -1,0 +1,10 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info organisation="org.rapidprom" module="ProM-Framework" revision="33280" />
+    <publications defaultconf="*">
+        <!-- ProM Framework -->
+        <artifact name="ProM-Contexts" type="jar" conf="*" />
+        <artifact name="ProM-Framework" type="jar" conf="*" />
+        <artifact name="ProM-Models" type="jar" conf="*" />
+        <artifact name="ProM-Plugins" type="jar" conf="*" />
+    </publications>
+</ivy-module>

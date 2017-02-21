@@ -8,7 +8,7 @@
         <artifact name="ProM-Plugins" type="jar" conf="*" />
     
         <!-- ProM stdlib -->
-        <artifact name="axis" type="jar" conf="*" />
+        <artifact name="axis-1.4" type="jar" conf="*" />
         <artifact name="bsh-2.0b4" type="jar" conf="*" />
         <artifact name="collections-generic-4.01" type="jar" conf="*" />
         <artifact name="colt-1.2.0" type="jar" conf="*" />

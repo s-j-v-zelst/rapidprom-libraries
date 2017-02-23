@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.88"   />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.421"   />
-        <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.616"   />
+        <dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.642"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.138"   />
         <dependency org="de.sciss" name="prefuse-core" rev="1.0.0" conf="*"/>
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.205"   />

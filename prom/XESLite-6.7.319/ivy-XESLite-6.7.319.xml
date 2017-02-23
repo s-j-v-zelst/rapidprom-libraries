@@ -20,7 +20,7 @@
 		<dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
 		<dependency org="com.github.stephenc.high-scale-lib" name="high-scale-lib" rev="1.1.4" conf="*"/>
-    	<dependency org="eu.danieldk.dictomaton" name="dictomaton" rev="1.2.1" conf="*" >
+    	<dependency org="eu.danieldk.dictomaton" name="dictomaton" rev="1.2.1" conf="*"/>
     	<dependency org="com.carrotsearch" name="java-sizeof" rev="0.0.5" conf="*"/>		
     </dependencies>
 </ivy-module>

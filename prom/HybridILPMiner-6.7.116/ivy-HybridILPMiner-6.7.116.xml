@@ -30,6 +30,6 @@
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.138"   />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.86"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.205"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
      </dependencies>
 </ivy-module>

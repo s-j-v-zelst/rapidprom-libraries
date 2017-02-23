@@ -18,6 +18,6 @@
         <dependency org="org.rapidprom" name="CausalActivityMatrix" rev="6.5.24" />
         <dependency org="org.rapidprom" name="Log" rev="6.7.315" />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.205" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213" />
     </dependencies>
 </ivy-module>

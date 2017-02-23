@@ -22,6 +22,6 @@
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"  />
         <dependency org="org.rapidprom" name="PTConversions" rev="6.5.3"  />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.85"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.205"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"  />
     </dependencies>
 </ivy-module>

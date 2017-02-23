@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.421"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.205"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
 	<dependency org="org.rapidprom" name="XESLite" rev="6.7.319"   />
     </dependencies>
 </ivy-module>

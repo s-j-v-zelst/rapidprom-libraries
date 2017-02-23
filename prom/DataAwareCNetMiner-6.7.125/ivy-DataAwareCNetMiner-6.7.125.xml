@@ -2,10 +2,10 @@
     <info 
         organisation="org.rapidprom" 
         module="DataAwareCNetMiner" 
-        revision="6.7.123" 
+        revision="6.7.125" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareCNetMiner-6.7.123"
-        rapidprom:desc="Daikon library"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareCNetMiner-6.7.125"
+        rapidprom:desc="Data Aware CNet Miner"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="DataAwareCNetMiner" 
         rapidprom:author="F. Mannhardt" 

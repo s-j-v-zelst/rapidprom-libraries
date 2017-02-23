@@ -16,7 +16,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"  />
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.88"  />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.107"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297"  />

@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="PNAnalysis" 
-        revision="6.7.122" 
+        revision="6.7.128" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PNetReplayer-6.7.122"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PNetReplayer-6.7.128"
         rapidprom:desc="Petri net Analysis"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
@@ -15,9 +15,7 @@
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.7.71"   />
-        <!-- we try not to include lola as it is not fully supporting mac/linux currently -->
-        <!-- dependency org="org.rapidprom.thirdparty.resources" name="lola" rev="na-1" /-->
     </dependencies>
 </ivy-module>

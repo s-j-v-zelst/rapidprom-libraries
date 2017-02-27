@@ -1,22 +1,22 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="DataAwareCNetMiner" 
-        revision="6.7.42" 
+        module="PetriNets" 
+        revision="6.7.136" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataAwareCNetMiner-6.7.42"
-        rapidprom:desc="Daikon library"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PetriNets-6.7.136"
+        rapidprom:desc="Petri Nets"
         rapidprom:org="Eindhoven University of Technology" 
-        rapidprom:license="DataAwareCNetMiner" 
-        rapidprom:author="F. Mannhardt" 
+        rapidprom:license="LGPL"
+        rapidprom:author="H.M.W. Verbeek, S.J. van Zelst"
         rapidprom:auto="true"
         rapidprom:hasPlugins="true" 
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.57"   />
-		<dependency org="org.rapidprom" name="CNet" rev="6.7.88"   />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.88"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
     </dependencies>
 </ivy-module>

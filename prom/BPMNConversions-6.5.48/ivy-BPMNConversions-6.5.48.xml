@@ -19,9 +19,9 @@
 		<dependency org="org.rapidprom" name="BPMN" rev="6.5.56" />
 		<dependency org="org.rapidprom" name="Flex" rev="6.5.33" />
 		<dependency org="org.rapidprom" name="DataPetriNets" rev="6.7.386" />
-		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.7.122" />
+		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.7.128" />
 		<dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73" />
-		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.95" />
+		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.136" />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.7.177" />
 		<dependency org="org.rapidprom" name="Properties" rev="6.5.86" />
 		<dependency org="org.rapidprom" name="FlexReplayer" rev="6.5.25" />

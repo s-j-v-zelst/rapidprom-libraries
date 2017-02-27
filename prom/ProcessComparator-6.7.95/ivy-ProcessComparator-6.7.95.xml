@@ -1,11 +1,11 @@
 <ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
     <info 
         organisation="org.rapidprom" 
-        module="VideoLectureAnalysis" 
-        revision="6.5.5" 
+        module="ProcessComparator" 
+        revision="6.7.95" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/VideoLectureAnalysis-6.5.5"
-        rapidprom:desc="VideoLectureAnalysis"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/ProcessComparator-6.7.95"
+        rapidprom:desc="ProcessComparator"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
         rapidprom:author="Alfredo Bolt"
@@ -15,11 +15,12 @@
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
 		<dependency org="org.rapidprom" name="Log" rev="6.7.293"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />      
-        <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"  />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.53"  />
+		<dependency org="org.rapidprom" name="TransitionSystems" rev="6.7.71"  />
+		<dependency org="org.rapidprom" name="Weka" rev="6.7.3"  />
+		<dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.57"  />
+		<dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"  />
     </dependencies>
 </ivy-module>

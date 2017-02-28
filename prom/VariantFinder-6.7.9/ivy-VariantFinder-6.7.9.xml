@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="VariantFinder" 
-        revision="6.7.7" 
+        revision="6.7.9" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/VariantFinder-6.7.7"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/VariantFinder-6.7.9"
         rapidprom:desc="VariantFinder"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
@@ -22,6 +22,7 @@
 		<dependency org="org.rapidprom" name="Weka" rev="6.7.3"  />
 		<dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.89"  />
 		<dependency org="org.rapidprom" name="ProcessComparator" rev="6.7.95"  />
+		<dependency org="org.rapidprom.thirdparty.lib" name="prodrift" rev="2.3" />
 		
     </dependencies>
 </ivy-module>

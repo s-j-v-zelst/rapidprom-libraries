@@ -17,6 +17,6 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125" />
         <dependency org="org.rapidprom" name="Log" rev="6.7.293" />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50" />
-        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.95" />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136" />
     </dependencies>
 </ivy-module>

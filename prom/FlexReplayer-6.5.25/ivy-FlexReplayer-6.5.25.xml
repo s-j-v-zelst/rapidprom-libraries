@@ -22,6 +22,6 @@
 		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.7.128"   />
 		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
 		<dependency org="org.rapidprom" name="YAWL" rev="6.5.30"   />
-		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.99"   />
+		<dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.142"   />
      </dependencies>
 </ivy-module>

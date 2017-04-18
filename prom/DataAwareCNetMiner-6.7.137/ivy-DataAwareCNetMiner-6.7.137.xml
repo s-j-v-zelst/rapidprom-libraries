@@ -15,7 +15,7 @@
     
     />
     <dependencies>
-	<dependency org="org.rapidprom" name="CNet" rev="6.7.134"   />
+	<dependency org="org.rapidprom" name="CNet" rev="6.7.137"   />
         <dependency org="org.rapidprom" name="BPMN" rev="6.5.56"   />
         <dependency org="org.rapidprom" name="BPMNConversions" rev="6.5.48"   />
         <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.92"   />

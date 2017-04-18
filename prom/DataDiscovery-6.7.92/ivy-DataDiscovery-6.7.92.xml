@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="DataDiscovery" 
-        revision="6.7.89" 
+        revision="6.7.92" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataDiscovery-6.7.89"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataDiscovery-6.7.92"
         rapidprom:desc="DataDiscovery"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 

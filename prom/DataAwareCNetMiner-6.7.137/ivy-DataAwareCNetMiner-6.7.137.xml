@@ -18,7 +18,7 @@
 	<dependency org="org.rapidprom" name="CNet" rev="6.7.134"   />
         <dependency org="org.rapidprom" name="BPMN" rev="6.5.56"   />
         <dependency org="org.rapidprom" name="BPMNConversions" rev="6.5.48"   />
-        <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.89"   />
+        <dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.92"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
         <dependency org="org.rapidprom" name="Weka" rev="6.7.25"   />

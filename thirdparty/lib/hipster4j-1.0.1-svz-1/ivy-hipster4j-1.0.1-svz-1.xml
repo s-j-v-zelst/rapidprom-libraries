@@ -1,4 +1,4 @@
 <ivy-module version="2.0">
-    <info organisation="org.rapidprom.thirdparty.lib" module="hipster4j" revision="hipster4j-1.0.1-svz-1">
+    <info organisation="org.rapidprom.thirdparty.lib" module="hipster4j" revision="1.0.1-svz-1">
     </info>
 </ivy-module>

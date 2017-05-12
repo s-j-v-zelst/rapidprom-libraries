@@ -2,7 +2,7 @@
     <info 
         organisation="org.rapidprom" 
         module="OnlineConformance" 
-        revision="6.7.1" 
+        revision="6.7.115" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/OnlineConformance-6.7.115"
         rapidprom:desc="Online Conformance, contains custom hipster4j library that allows for measuring A* performance"

@@ -20,6 +20,6 @@
         <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297" />
         <dependency org="org.rapidprom.thirdparty.lib" name="jblas" rev="1.2.4" conf="*" />
 		<dependency org="org.rapidprom.thirdparty.lib" name="rsyntaxtextarea" rev="2.5.8" conf="*" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
      </dependencies>
 </ivy-module>

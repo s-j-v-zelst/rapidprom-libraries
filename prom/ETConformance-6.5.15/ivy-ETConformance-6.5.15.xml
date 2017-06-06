@@ -15,12 +15,12 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
         <dependency org="org.rapidprom" name="PNAnalysis" rev="6.7.128"   />
         <dependency org="org.rapidprom" name="TransitionSystems" rev="6.7.71"   />
         <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.138"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
     </dependencies>
 </ivy-module>

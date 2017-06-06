@@ -15,7 +15,7 @@
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
         <dependency org="org.rapidprom" name="InteractiveVisualization" rev="6.5.33"   />
     </dependencies>
 </ivy-module>

@@ -19,9 +19,9 @@
         <dependency org="org.rapidprom" name="AlphaMiner" rev="6.5.47"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />
         <dependency org="org.rapidprom" name="EventStream" rev="6.5.72"  />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"  />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"  />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"  />
         <dependency org="org.rapidprom" name="Stream" rev="6.5.85"  />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"  />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"  />
     </dependencies>
 </ivy-module>

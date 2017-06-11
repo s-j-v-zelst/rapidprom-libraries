@@ -15,7 +15,7 @@
     
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.107"   />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
     </dependencies>

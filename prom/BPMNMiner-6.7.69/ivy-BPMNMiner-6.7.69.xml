@@ -20,7 +20,7 @@
 		<dependency org="org.rapidprom" name="BPMN" rev="6.5.56"   />
 		<dependency org="org.rapidprom" name="HeuristicsMiner" rev="6.5.49"   />
 		<dependency org="org.rapidprom" name="ILPMiner" rev="6.5.24"   />
-		<dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297"   />
+		<dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.381"   />
 		<dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"	/>
 		<dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
 		<dependency org="org.rapidprom" name="Log" rev="6.7.329"   />

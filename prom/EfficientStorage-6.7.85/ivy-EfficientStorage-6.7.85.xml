@@ -1,0 +1,21 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="EfficientStorage" 
+        revision="6.7.85" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/EfficientStorage-6.7.85"
+        rapidprom:desc="Efficient Storage"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="Boudewijn van Dongen" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.04" />
+    </dependencies>
+</ivy-module>

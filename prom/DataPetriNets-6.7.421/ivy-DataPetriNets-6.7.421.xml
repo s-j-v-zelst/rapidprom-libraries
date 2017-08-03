@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
         <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.76"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.85"   />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
 		<dependency org="org.rapidprom" name="DataExpression" rev="6.7.46"   />
         <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />

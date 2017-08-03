@@ -1,0 +1,30 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="OnlineConformance" 
+        revision="6.7.115" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/OnlineConformance-6.7.115"
+        rapidprom:desc="Online Conformance, contains custom hipster4j library that allows for measuring A* performance"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="Andrea Burattin, Boudewijn van Dongen, Sebastiaan van Zelst"
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"   />
+		<dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.85"   />
+		<dependency org="org.rapidprom" name="EventStream" rev="6.5.72"   />
+		<dependency org="org.rapidprom" name="EvolutionaryTreeMiner" rev="6.7.154"   />
+		<dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
+		<dependency org="org.rapidprom" name="LPEngine" rev="6.7.80"   />
+		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
+		
+		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="hipster4j" rev="1.0.1-svz-1" />
+    </dependencies>
+</ivy-module>

@@ -2,10 +2,10 @@
     <info 
         organisation="org.rapidprom" 
         module="EfficientStorage" 
-        revision="6.7.76" 
+        revision="6.7.81" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/EfficientStorage-6.7.76"
-        rapidprom:desc="Efficient Storage"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/EfficientStorage-6.7.81"
+        rapidprom:desc="Efficient Storage; ported by svzelst@20170227, omitted gurobi from third party libs"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL" 
         rapidprom:author="Boudewijn van Dongen" 
@@ -15,8 +15,7 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
-        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
-        <dependency org="org.rapidprom.thirdparty.lib" name="gurobi" rev="6.5" />
+		<dependency org="org.rapidprom" name="Log" rev="6.7.293" />
+        <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.1" />
     </dependencies>
 </ivy-module>

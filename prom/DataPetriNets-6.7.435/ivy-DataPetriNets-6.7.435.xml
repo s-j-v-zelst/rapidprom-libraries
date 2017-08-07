@@ -1,0 +1,29 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="DataPetriNets" 
+        revision="6.7.435" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/DataPetriNets-6.7.435"
+        rapidprom:desc="DataPetriNets"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL" 
+        rapidprom:author="Massimiliano de Leoni" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
+        <dependency org="org.rapidprom" name="GraphViz" rev="6.7.185"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
+		<dependency org="org.rapidprom" name="DataExpression" rev="6.7.52"   />
+        <dependency org="com.fifesoft" name="rsyntaxtextarea" rev="2.5.7" conf="*" />
+        <dependency org="com.fifesoft" name="autocomplete" rev="2.5.7" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" />
+    </dependencies>
+</ivy-module>

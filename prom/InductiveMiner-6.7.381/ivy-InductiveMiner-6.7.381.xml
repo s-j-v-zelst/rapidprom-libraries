@@ -1,0 +1,23 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="InductiveMiner" 
+        revision="6.7.381" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/InductiveMiner-6.7.381"
+        rapidprom:desc="Inductive Miner"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="S.J.J. Leemans" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.158"   />
+        <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"   />
+        <dependency org="org.rapidprom" name="Properties" rev="6.5.86"   />
+     </dependencies>
+</ivy-module>

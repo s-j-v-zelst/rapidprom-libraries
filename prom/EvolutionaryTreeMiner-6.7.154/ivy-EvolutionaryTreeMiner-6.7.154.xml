@@ -14,21 +14,21 @@
         rapidprom:logo="http://www.win.tue.nl/~jbuijs/wiki/_media/joosbuijs.png"
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.107"   />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="approxlib" rev="v1.0" conf="*"/>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.85"   />
-        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.297"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"   />
+        <dependency org="org.rapidprom" name="InductiveMiner" rev="6.7.381"   />
         <dependency org="sshtools" name="j2ssh-core" rev="0.2.9" conf="*" />
         <dependency org="sshtools" name="j2ssh-common" rev="0.2.9" conf="*" />
 		<dependency org="xerces" name="xercesImpl" rev="2.11.0" conf="*" />
 		<dependency org="xerces" name="xmlParserAPIs" rev="2.6.2" conf="*" />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
         <dependency org="org.rapidprom.thirdparty.resource" name="LpSolve" rev="5.5.3" /> 
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"   />
         <dependency org="org.rapidprom" name="Properties" rev="6.5.86"   />
         <dependency org="org.rapidprom" name="PTMerge" rev="6.5.19"   />
         <dependency org="org.rapidprom.thirdparty.lib" name="RTED" rev="v1.0" conf="*" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
      </dependencies>
 </ivy-module>

@@ -18,11 +18,11 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
 		<dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.81" />
         <dependency org="org.rapidprom" name="GuideTreeMiner" rev="6.5.18"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
-        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.152"   />
+        <dependency org="org.rapidprom" name="PNetReplayer" rev="6.7.158"   />
         <dependency org="org.rapidprom" name="TraceAlignmentWithGuideTree" rev="6.5.32"   />
-		<dependency org="org.rapidprom" name="Weka" rev="6.7.25"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213"   />
+        <dependency org="org.rapidprom" name="Weka" rev="6.7.25"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
     </dependencies>
 </ivy-module>

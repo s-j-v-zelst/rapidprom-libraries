@@ -16,8 +16,8 @@
     />
     <dependencies>
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.293"   />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.177"   />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"   />
 		<dependency org="org.rapidprom" name="Woflan" rev="6.7.59"   />
 		<dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"   />
     </dependencies>

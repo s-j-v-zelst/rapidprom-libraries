@@ -14,8 +14,8 @@
         rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
     />
     <dependencies>
-        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.107" />
-        <dependency org="org.rapidprom" name="Log" rev="6.7.315" />
-        <dependency org="org.rapidprom" name="Widgets" rev="6.7.213" />
+        <dependency org="org.rapidprom" name="ApacheUtils" rev="6.7.109" />
+        <dependency org="org.rapidprom" name="Log" rev="6.7.329" />
+        <dependency org="org.rapidprom" name="Widgets" rev="6.7.224" />
     </dependencies>
 </ivy-module>

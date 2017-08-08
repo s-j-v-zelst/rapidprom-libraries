@@ -19,7 +19,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />      
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"  />
 		<dependency org="org.rapidprom" name="TransitionSystems" rev="6.7.71"  />
-		<dependency org="org.rapidprom" name="Weka" rev="6.7.3"  />
+		<dependency org="org.rapidprom" name="Weka" rev="6.7.25"  />
 		<dependency org="org.rapidprom" name="DataDiscovery" rev="6.7.96"  />
 		<dependency org="org.rapidprom" name="ProcessComparator" rev="6.7.95"  />
 		<dependency org="org.rapidprom.thirdparty.lib" name="prodrift" rev="2.3" />

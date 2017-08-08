@@ -20,10 +20,10 @@
         <dependency org="org.rapidprom" name="CausalActivityGraph" rev="6.7.38"   />
         <dependency org="org.rapidprom" name="CausalActivityGraphCreator" rev="6.5.36"   />
 		<dependency org="org.rapidprom" name="CausalActivityMatrix" rev="6.5.24"   />
-		<dependency org="org.rapidprom" name="CNet" rev="6.7.137"   />
+		<dependency org="org.rapidprom" name="CNet" rev="6.7.161"   />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"   />
 		<dependency org="org.rapidprom" name="DataAwareCNetMiner" rev="6.7.186" />
-        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.85"   />
+        <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"   />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"   />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"   />
         <dependency org="org.rapidprom" name="Log" rev="6.7.329"   />

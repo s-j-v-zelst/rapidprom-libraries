@@ -1,0 +1,23 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="GraphStream" 
+        revision="6.7.7" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/GraphStream-6.7.7"
+        rapidprom:desc="Graph Stream Library"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="Eric Verbeek" 
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="Scala" rev="6.7.9"  />
+		<dependency org="org.graphstream" name="gs-core" rev="1.3" />
+        <dependency org="org.graphstream" name="gs-ui" rev="1.3" />
+        <dependency org="org.graphstream" name="pherd" rev="1.0" />
+        <dependency org="org.graphstream" name="mbox2" rev="1.0" />
+    </dependencies>
+</ivy-module>

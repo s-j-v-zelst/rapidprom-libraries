@@ -21,7 +21,7 @@
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"  />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"  />
         <dependency org="org.rapidprom" name="ProcessTree" rev="6.7.73"  />
-        <dependency org="org.rapidprom" name="Stream" rev="6.5.85"  />
+        <dependency org="org.rapidprom" name="Stream" rev="6.8.117"  />
         <dependency org="org.rapidprom" name="Widgets" rev="6.7.224"  />
     </dependencies>
 </ivy-module>

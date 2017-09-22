@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="StreamBasedEventLog" 
-        revision="6.8.17" 
+        revision="6.8.19" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/StreamBasedEventLog-6.8.17"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/StreamBasedEventLog-6.8.19"
         rapidprom:desc="Several storage strategies for event streams"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"

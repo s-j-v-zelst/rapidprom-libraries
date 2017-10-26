@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
 		<dependency org="org.rapidprom" name="EventStream"  rev="6.8.114"	/>
 		<dependency org="org.rapidprom" name="Log" rev="6.7.329"	/>
-		<dependency org="org.rapidprom" name="Stream" rev="6.8.117"	/>
+		<dependency org="org.rapidprom" name="Stream" rev="6.8.119"	/>
 		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224"	/>
     </dependencies>
 </ivy-module>

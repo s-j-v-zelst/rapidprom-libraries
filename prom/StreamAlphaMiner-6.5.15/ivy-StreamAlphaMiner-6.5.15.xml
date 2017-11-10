@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"   />
         <dependency org="org.rapidprom" name="AlphaMiner" rev="6.5.47"  />
         <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"  />
-        <dependency org="org.rapidprom" name="EventStream" rev="6.8.114"  />
+        <dependency org="org.rapidprom" name="EventStream" rev="6.8.116"  />
         <dependency org="org.rapidprom" name="Log" rev="6.7.329"  />
         <dependency org="org.rapidprom" name="LogAbstractions" rev="6.5.50"  />
         <dependency org="org.rapidprom" name="Stream" rev="6.8.119"  />

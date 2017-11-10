@@ -18,7 +18,7 @@
         <dependency org="org.rapidprom" name="AcceptingPetriNet" rev="6.7.125"  />
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"  />
         <dependency org="org.rapidprom" name="ETConformance" rev="6.5.15"  />
-        <dependency org="org.rapidprom" name="EventStream" rev="6.8.114"  />
+        <dependency org="org.rapidprom" name="EventStream" rev="6.8.116"  />
         <dependency org="org.rapidprom" name="Log" rev="6.7.329"  />
         <dependency org="org.rapidprom" name="PetriNets" rev="6.7.136"  />
         <dependency org="org.rapidprom" name="PNetAlignmentAnalysis" rev="6.7.91"  />

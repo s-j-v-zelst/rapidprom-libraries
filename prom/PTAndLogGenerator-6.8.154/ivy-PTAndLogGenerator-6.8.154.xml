@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="PTAndLogGenerator" 
-        revision="6.7.92" 
+        revision="6.8.154" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PTAndLogGenerator-6.7.92"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/PTAndLogGenerator-6.8.154"
         rapidprom:desc="PTAndLogGenerator"
         rapidprom:org="Hasselt University" 
         rapidprom:license="LGPL"

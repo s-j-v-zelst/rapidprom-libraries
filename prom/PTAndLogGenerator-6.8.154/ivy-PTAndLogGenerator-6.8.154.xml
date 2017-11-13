@@ -24,9 +24,10 @@
         <dependency org="org.rapidprom" name="EfficientStorage" rev="6.7.90"   />
 		<dependency org="org.rapidprom" name="DataAwareReplayer" rev="6.7.692"   />
 		<dependency org="org.python" name="jython-standalone" rev="2.7.0" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="PyTreeNew" rev="na-1" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="Simpy" rev="na-1" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="TreeSimulator" rev="na-1" conf="*" />
-		<dependency org="org.rapidprom.thirdparty.lib" name="noUniqueTraces" rev="na-1" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="PyTreeNew" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="PyTree" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="Simpy" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="TreeSimulator" rev="na-2" conf="*" />
+		<dependency org="org.rapidprom.thirdparty.lib" name="noUniqueTraces" rev="na-2" conf="*" />
     </dependencies>
 </ivy-module>

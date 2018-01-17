@@ -1,0 +1,26 @@
+<ivy-module version="2.0" xmlns:rapidprom="http://rapidprom.org">
+    <info 
+        organisation="org.rapidprom" 
+        module="StreamConformance" 
+        revision="6.8.14" 
+        rapidprom:os="all"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/StreamConformance-6.8.14"
+        rapidprom:desc="Stream based conformance checking"
+        rapidprom:org="Eindhoven University of Technology" 
+        rapidprom:license="LGPL"
+        rapidprom:author="Andrea Burattin"
+        rapidprom:auto="true"
+        rapidprom:hasPlugins="true" 
+        rapidprom:logo="http://www.promtools.org/prom6/packages/prom_subtitle_hat_300.png"
+    
+    />
+    <dependencies>
+        <dependency org="org.rapidprom" name="BasicUtils" rev="6.7.104"   />
+		<dependency org="org.rapidprom" name="OperationalSupport" rev="6.7.49"	/>
+		<dependency org="org.rapidprom" name="PNAnalysis" rev="6.7.128"	/>
+		<dependency org="org.rapidprom" name="TSPetriNet" rev="6.5.35"	/>
+		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224"	/>
+		
+		<dependency org="org.rapidprom.thirdparty.lib" name="unfolder" rev="rp1" />
+    </dependencies>
+</ivy-module>

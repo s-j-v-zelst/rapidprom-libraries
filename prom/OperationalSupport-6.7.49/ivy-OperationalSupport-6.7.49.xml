@@ -2,9 +2,9 @@
     <info 
         organisation="org.rapidprom" 
         module="OperationalSupport" 
-        revision="6.7.19" 
+        revision="6.7.49" 
         rapidprom:os="all"
-        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/OperationalSupport-6.7.19"
+        rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/OperationalSupport-6.7.49"
         rapidprom:desc="Operational Support"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"

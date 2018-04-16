@@ -2,10 +2,10 @@
     <info 
         organisation="org.rapidprom" 
         module="StreamBasedEventLog" 
-        revision="6.8.27" 
+        revision="6.8.29" 
         rapidprom:os="all"
         rapidprom:url="https://github.com/rapidprom/rapidprom-libraries/tree/master/prom/StreamBasedEventLog-6.8.27"
-        rapidprom:desc="Several storage strategies for event streams"
+        rapidprom:desc="Several strategies to translate event streams to event logs"
         rapidprom:org="Eindhoven University of Technology" 
         rapidprom:license="LGPL"
         rapidprom:author="Sebastiaan J. van Zelst"
@@ -19,6 +19,7 @@
 		<dependency org="org.rapidprom" name="EventStream"  rev="6.8.116"	/>
 		<dependency org="org.rapidprom" name="Log" rev="6.7.329"	/>
 		<dependency org="org.rapidprom" name="Stream" rev="6.8.119"	/>
+		<dependency org="org.rapidprom" name="StreamBasedEventStorage" rev="6.8.6" />
 		<dependency org="org.rapidprom" name="Widgets" rev="6.7.224"	/>
     </dependencies>
 </ivy-module>
